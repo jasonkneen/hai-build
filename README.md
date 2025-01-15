@@ -78,9 +78,20 @@ HAI Build's Code Generator is designed to boost productivity and precision by au
 
 # 🚀 Factif AI
 
-Enables seamless automation of regression testing across web and mobile platforms with autonomous navigation capabilities while maintaining human-assisted exploration when needed.
+**Factif AI** revolutionizes test automation by directly controlling your computer through AI. Using built-in vision capabilities of Claude, OpenAI, and Gemini along with computer use, it can navigate any application naturally - clicking, typing, and verifying results just like a human would.
 
-> Comming Soon!
+> 🔗 View on GitHub: https://github.com/presidio-oss/factif-ai
+
+<div align="center">
+<img src="assets/gifs/factif-ai-demo.gif" alt="HAI Demo" />
+</div>
+
+## Key Features
+
+* 🔮 **Multi-Modal Support**: Built-in support for leading vision-language models including Claude, OpenAI, Gemini, and OmniParser
+* 🤖 **AI-Powered Computer Control**: Intelligent element detection, navigation, and automated verification
+* 📸 **Automated Documentation**: Comprehensive test documentation with automated screenshot capture
+* 🌐 **Flexible Testing Modes**: Support for both web applications (Puppeteer) and desktop/mobile applications (Docker VNC)
 
 <br/>
 
