@@ -57,9 +57,9 @@ HAI Build's Specif AI transforms the way teams generate, manage, and refine soft
 
 HAI Build's Code Generator is designed to boost productivity and precision by automating task execution and integrating file management capabilities. It combines intelligent file indexing, context generation, and LLM-driven automation to minimize manual effort and ensure task accuracy. With user-friendly interfaces and configurable settings, HAI Code Generator is perfect for both developers and teams aiming to enhance their workflows.
 
-> 🔗 View on GitHub (Aider based): https://github.com/presidio-oss/aider-based-code-generator (**Archived**)
-
 > 🔗 View on GitHub (Cline based): https://github.com/presidio-oss/cline-based-code-generator
+
+> 🔗 View on GitHub (Aider based): https://github.com/presidio-oss/aider-based-code-generator (**Archived**)
 
 <div align="center">
 <img src="assets/gifs/hai-demo.gif" alt="HAI Demo" />
