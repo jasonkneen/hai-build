@@ -15,14 +15,14 @@
 
 Over the years, the software development lifecycle has gotten inherently complex. As variables increase and new capabilities are rolled out that require niche skills, the complexity overwhelms. HAI is Presidio's human-centric approach to harnessing AI to help people work faster, better, and smarter. Our innovation unlocks the ideal working relationship between human and AI.
 
-Our integrated product suite — Specif AI, Code Generator, and Factif AI, is specifically crafted to meet these demands by seamlessly blending automation, intelligence, and quality assurance. From automating code generation and managing comprehensive requirements to ensuring rigorous testing, these tools streamline workflows and reduce manual intervention, enabling development teams to focus on delivering exceptional solutions.
+Our integrated product suite — Specifai, Code Generator, and Factif AI, is specifically crafted to meet these demands by seamlessly blending automation, intelligence, and quality assurance. From automating code generation and managing comprehensive requirements to ensuring rigorous testing, these tools streamline workflows and reduce manual intervention, enabling development teams to focus on delivering exceptional solutions.
 
 [![Video Title](assets/img//video-cover.png)](https://www.youtube.com/watch?v=SSSn2XySHOU)
 
 
-# 🚀 Specif AI
+# 🚀 Specifai
 
-HAI Build's Specif AI transforms the way teams generate, manage, and refine software requirements by blending AI-powered intelligence with human context. By simply providing the basic idea of the product you wish to build with tech stack details HAI Build automatically produces comprehensive requirement documentation.
+HAI Build's Specifai transforms the way teams generate, manage, and refine software requirements by blending AI-powered intelligence with human context. By simply providing the basic idea of the product you wish to build with tech stack details HAI Build automatically produces comprehensive requirement documentation.
 
 > 🔗 View on GitHub: https://github.com/presidio-oss/specif-ai
 
@@ -78,9 +78,9 @@ HAI Build's Code Generator is designed to boost productivity and precision by au
 
 <br/>
 
-# 🚀 Factif AI
+# 🚀 Factifai
 
-**Factif AI** revolutionizes test automation by directly controlling your computer through AI. Using built-in vision capabilities of Claude, OpenAI, and Gemini along with computer use, it can navigate any application naturally - clicking, typing, and verifying results just like a human would.
+**Factifai** revolutionizes test automation by directly controlling your computer through AI. Using built-in vision capabilities of Claude, OpenAI, and Gemini along with computer use, it can navigate any application naturally - clicking, typing, and verifying results just like a human would.
 
 > 🔗 View on GitHub: https://github.com/presidio-oss/factif-ai
 
@@ -105,7 +105,7 @@ By combining these three powerful tools, your team can:
 * Improve collaboration and alignment between teams
 * Deliver high-quality solutions with reduced manual effort
 
-This suite of tools is designed to meet the demands of today's fast-paced development environments, delivering precision, speed, and quality with every use. Whether you're generating code, building requirements, or executing regression test suits, our tools are here to help you succeed. Take your software development lifecycle to the next level with Specif AI, Code generator  and Factif AI testing suite.
+This suite of tools is designed to meet the demands of today's fast-paced development environments, delivering precision, speed, and quality with every use. Whether you're generating code, building requirements, or executing regression test suits, our tools are here to help you succeed. Take your software development lifecycle to the next level with Specifai, Code generator  and Factifai testing suite.
 
 ## 📧 Contact
 
