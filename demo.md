@@ -28,11 +28,11 @@ https://github.com/user-attachments/assets/e26dd2cb-61c9-4995-be8e-c52213c9336e
 
 ### ✨ Here's what a smarter SDLC looks like:
 
-- 📝 Use [Specifai](https://github.com/presidio-dev/specifai) to generate and refine requirements and instantly turn them into tasks
+- 📝 Use [Specifai](https://github.com/presidio-oss/specif-ai) to generate and refine requirements and instantly turn them into tasks
 - 💻 Let [Amazon Q](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode) convert those tasks into working code
 - ✅ Track everything with [Jira](https://community.atlassian.com/forums/Atlassian-Platform-articles/Atlassian-Remote-MCP-Server-beta-now-available-for-desktop/ba-p/3022084) from your IDE!
 - 📚 Document as you go in [Confluence](https://community.atlassian.com/forums/Atlassian-Platform-articles/Atlassian-Remote-MCP-Server-beta-now-available-for-desktop/ba-p/3022084) right from your IDE!
-- 🧪 Use [Factifai](https://github.com/presidio-dev/factifai) to visually test and validate your implementation
+- 🧪 Use [Factifai](https://github.com/presidio-oss/factif-ai) to visually test and validate your implementation
 
 <hr style="height: 3px; background: linear-gradient(to right, #4285f4, #34a853, #fbbc05, #ea4335); border: none; margin: 30px 0;">
 
