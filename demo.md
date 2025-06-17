@@ -22,10 +22,7 @@
 ## 🎥 Video Previews
 
 ### 🤝 HAI x Amazon Q Developer
-<video width="640" height="360" controls>
-  <source src="assets/demos/HAI x Amazon Q Developer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/e26dd2cb-61c9-4995-be8e-c52213c9336e
 
 **Description:** This demo showcases how HAI Build and Amazon Q Developer work together through MCP integration to deliver an end-to-end AI-assisted development experience. [Learn more about Q Developer's MCP Integration](https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/).
 
