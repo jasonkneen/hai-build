@@ -82,7 +82,8 @@ HAI Build's Code Generator is designed to boost productivity and precision by au
 
 **Factifai** revolutionizes test automation by directly controlling your computer through AI. Using built-in vision capabilities of Claude, OpenAI, and Gemini along with computer use, it can navigate any application naturally - clicking, typing, and verifying results just like a human would.
 
-> 🔗 View on GitHub: https://github.com/presidio-oss/factif-ai
+> 🔗 Broswer Mode: https://github.com/presidio-oss/factif-ai
+> 🔗 Agentic Mode: https://github.com/presidio-oss/factif-ai
 
 <div align="center">
 <img src="assets/gifs/factif-ai-demo.gif" alt="HAI Demo" />
